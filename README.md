@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">A passionate backend Developer from India</h3>
 
 - 🌱 I’m currently learning **NestJS, React Native**
 
