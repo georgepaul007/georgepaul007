@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **gp6653@srmist.edu.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vvoFRZoff_aJxs3IFys9rSWv1zARi76e/view?usp=sharing](https://drive.google.com/file/d/1vvoFRZoff_aJxs3IFys9rSWv1zARi76e/view?usp=sharing)
-
 - ⚡ Fun fact **I am actually named after George Bush who became president around the time I was born.**
 
 <h3 align="left">Connect with me:</h3>
